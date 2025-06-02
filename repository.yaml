@@ -1,5 +1,5 @@
 name: MIchael version
-url: https://github.com/koush/scrypted
+url: https://github.com/Justpretendthisusernameiscool/scrypted
 maintainer: koush
 ports:
   42462/tcp: 42462
